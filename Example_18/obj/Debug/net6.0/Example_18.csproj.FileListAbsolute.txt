@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\bin\Debug\net6.0\Example_18.exe
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\bin\Debug\net6.0\Example_18.deps.json
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\bin\Debug\net6.0\Example_18.runtimeconfig.json
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\bin\Debug\net6.0\Example_18.dll
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\bin\Debug\net6.0\ref\Example_18.dll
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\bin\Debug\net6.0\Example_18.pdb
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\obj\Debug\net6.0\Example_18.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\obj\Debug\net6.0\Example_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\obj\Debug\net6.0\Example_18.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\obj\Debug\net6.0\Example_18.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\obj\Debug\net6.0\Example_18.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\obj\Debug\net6.0\Example_18.dll
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\obj\Debug\net6.0\ref\Example_18.dll
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\obj\Debug\net6.0\Example_18.pdb
+C:\Users\user\Desktop\Homework_3\Examples\Example_18\obj\Debug\net6.0\Example_18.genruntimeconfig.cache
